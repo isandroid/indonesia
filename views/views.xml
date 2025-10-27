@@ -1,0 +1,60 @@
+<odoo>
+  <data>
+    <!-- explicit list view definition -->
+<!--
+    <record model="ir.ui.view" id="idn.list">
+      <field name="name">idn list</field>
+      <field name="model">idn.idn</field>
+      <field name="arch" type="xml">
+        <tree>
+          <field name="name"/>
+          <field name="value"/>
+          <field name="value2"/>
+        </tree>
+      </field>
+    </record>
+-->
+
+    <!-- actions opening views on models -->
+<!--
+    <record model="ir.actions.act_window" id="idn.action_window">
+      <field name="name">idn window</field>
+      <field name="res_model">idn.idn</field>
+      <field name="view_mode">tree,form</field>
+    </record>
+-->
+
+    <!-- server action to the one above -->
+<!--
+    <record model="ir.actions.server" id="idn.action_server">
+      <field name="name">idn server</field>
+      <field name="model_id" ref="model_idn_idn"/>
+      <field name="state">code</field>
+      <field name="code">
+        action = {
+          "type": "ir.actions.act_window",
+          "view_mode": "tree,form",
+          "res_model": model._name,
+        }
+      </field>
+    </record>
+-->
+
+    <!-- Top menu item -->
+<!--
+    <menuitem name="idn" id="idn.menu_root"/>
+-->
+    <!-- menu categories -->
+<!--
+    <menuitem name="Menu 1" id="idn.menu_1" parent="idn.menu_root"/>
+    <menuitem name="Menu 2" id="idn.menu_2" parent="idn.menu_root"/>
+-->
+    <!-- actions -->
+<!--
+    <menuitem name="List" id="idn.menu_1_list" parent="idn.menu_1"
+              action="idn.action_window"/>
+    <menuitem name="Server to list" id="idn" parent="idn.menu_2"
+              action="idn.action_server"/>
+-->
+  </data>
+</odoo>

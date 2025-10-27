@@ -1,0 +1,61 @@
+<odoo>
+  <data>
+    <!-- explicit list view definition -->
+<!--
+    <record model="ir.ui.view" id="idn.list">
+      <field name="name">idn list</field>
+      <field name="model">idn.idn</field>
+      <field name="arch" type="xml">
+        <tree>
+          <field name="name"/>
+          <field name="value"/>
+          <field name="value2"/>
+        </tree>
+      </field>
+    </record>
+-->
+
+    <!-- actions opening views on models -->
+
+    <record model="ir.actions.act_window" id="idn_provinsi_action_window">
+      <field name="name">provinsi window</field>
+      <field name="res_model">idn.provinsi</field>
+      <field name="view_mode">tree,form</field>
+    </record>
+
+
+    <!-- server action to the one above -->
+<!--
+    <record model="ir.actions.server" id="idn.action_server">
+      <field name="name">idn server</field>
+      <field name="model_id" ref="model_idn_idn"/>
+      <field name="state">code</field>
+      <field name="code">
+        action = {
+          "type": "ir.actions.act_window",
+          "view_mode": "tree,form",
+          "res_model": model._name,
+        }
+      </field>
+    </record>
+-->
+
+    <!-- Top menu item -->
+<!--
+    <menuitem name="idn" id="idn.menu_root"/>
+-->
+    <!-- menu categories -->
+<!--
+    <menuitem name="Menu 1" id="idn.menu_1" parent="idn.menu_root"/>
+    <menuitem name="Menu 2" id="idn.menu_2" parent="idn.menu_root"/>
+-->
+    <!-- actions -->
+
+    <menuitem 
+        name="Provinsi"
+        id="idn_menu_provinsi_list"
+        parent="idn_menu_root"
+        action="idn_provinsi_action_window"/>
+
+  </data>
+</odoo>

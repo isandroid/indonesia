@@ -1,0 +1,5 @@
+<odoo>
+  <data>
+    <menuitem name="Indonesia" id="idn_menu_root"/>
+  </data>
+</odoo>

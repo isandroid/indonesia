@@ -1,0 +1,515 @@
+name,id_kabupaten_kota,provinsi_id
+Kab. Aceh Selatan,1101,Aceh
+Kab. Aceh Tenggara,1102,Aceh
+Kab. Aceh Timur,1103,Aceh
+Kab. Aceh Tengah,1104,Aceh
+Kab. Aceh Barat,1105,Aceh
+Kab. Aceh Besar,1106,Aceh
+Kab. Pidie,1107,Aceh
+Kab. Aceh Utara,1108,Aceh
+Kab. Simeulue,1109,Aceh
+Kab. Aceh Singkil,1110,Aceh
+Kab. Bireuen,1111,Aceh
+Kab. Aceh Barat Daya,1112,Aceh
+Kab. Gayo Lues,1113,Aceh
+Kab. Aceh Jaya,1114,Aceh
+Kab. Nagan Raya,1115,Aceh
+Kab. Aceh Tamiang,1116,Aceh
+Kab. Bener Meriah,1117,Aceh
+Kab. Pidie Jaya,1118,Aceh
+Kota Banda Aceh,1171,Aceh
+Kota Sabang,1172,Aceh
+Kota Lhokseumawe,1173,Aceh
+Kota Langsa,1174,Aceh
+Kota Subulussalam,1175,Aceh
+Kab. Tapanuli Tengah,1201,Sumatera Utara
+Kab. Tapanuli Utara,1202,Sumatera Utara
+Kab. Tapanuli Selatan,1203,Sumatera Utara
+Kab. Nias,1204,Sumatera Utara
+Kab. Langkat,1205,Sumatera Utara
+Kab. Karo,1206,Sumatera Utara
+Kab. Deli Serdang,1207,Sumatera Utara
+Kab. Simalungun,1208,Sumatera Utara
+Kab. Asahan,1209,Sumatera Utara
+Kab. Labuhanbatu,1210,Sumatera Utara
+Kab. Dairi,1211,Sumatera Utara
+Kab. Toba,1212,Sumatera Utara
+Kab. Mandailing Natal,1213,Sumatera Utara
+Kab. Nias Selatan,1214,Sumatera Utara
+Kab. Pakpak Bharat,1215,Sumatera Utara
+Kab. Humbang Hasundutan,1216,Sumatera Utara
+Kab. Samosir,1217,Sumatera Utara
+Kab. Serdang Bedagai,1218,Sumatera Utara
+Kab. Batu Bara,1219,Sumatera Utara
+Kab. Padang Lawas Utara,1220,Sumatera Utara
+Kab. Padang Lawas,1221,Sumatera Utara
+Kab. Labuhanbatu Selatan,1222,Sumatera Utara
+Kab. Labuhanbatu Utara,1223,Sumatera Utara
+Kab. Nias Utara,1224,Sumatera Utara
+Kab. Nias Barat,1225,Sumatera Utara
+Kota Medan,1271,Sumatera Utara
+Kota Pematangsiantar,1272,Sumatera Utara
+Kota Sibolga,1273,Sumatera Utara
+Kota Tanjung Balai,1274,Sumatera Utara
+Kota Binjai,1275,Sumatera Utara
+Kota Tebing Tinggi,1276,Sumatera Utara
+Kota Padangsidimpuan,1277,Sumatera Utara
+Kota Gunungsitoli,1278,Sumatera Utara
+Kab. Pesisir Selatan,1301,Sumatera Barat
+Kab. Solok,1302,Sumatera Barat
+Kab. Sijunjung,1303,Sumatera Barat
+Kab. Tanah Datar,1304,Sumatera Barat
+Kab. Padang Pariaman,1305,Sumatera Barat
+Kab. Agam,1306,Sumatera Barat
+Kab. Lima Puluh Kota,1307,Sumatera Barat
+Kab. Pasaman,1308,Sumatera Barat
+Kab. Kepulauan Mentawai,1309,Sumatera Barat
+Kab. Dharmasraya,1310,Sumatera Barat
+Kab. Solok Selatan,1311,Sumatera Barat
+Kab. Pasaman Barat,1312,Sumatera Barat
+Kota Padang,1371,Sumatera Barat
+Kota Solok,1372,Sumatera Barat
+Kota Sawahlunto,1373,Sumatera Barat
+Kota Padang Panjang,1374,Sumatera Barat
+Kota Bukittinggi,1375,Sumatera Barat
+Kota Payakumbuh,1376,Sumatera Barat
+Kota Pariaman,1377,Sumatera Barat
+Kab. Kampar,1401,Riau
+Kab. Indragiri Hulu,1402,Riau
+Kab. Bengkalis,1403,Riau
+Kab. Indragiri Hilir,1404,Riau
+Kab. Pelalawan,1405,Riau
+Kab. Rokan Hulu,1406,Riau
+Kab. Rokan Hilir,1407,Riau
+Kab. Siak,1408,Riau
+Kab. Kuantan Singingi,1409,Riau
+Kab. Kepulauan Meranti,1410,Riau
+Kota Pekanbaru,1471,Riau
+Kota Dumai,1472,Riau
+Kab. Kerinci,1501,Jambi
+Kab. Merangin,1502,Jambi
+Kab. Sarolangun,1503,Jambi
+Kab. Batanghari,1504,Jambi
+Kab. Muaro Jambi,1505,Jambi
+Kab. Tanjung Jabung Barat,1506,Jambi
+Kab. Tanjung Jabung Timur,1507,Jambi
+Kab. Bungo,1508,Jambi
+Kab. Tebo,1509,Jambi
+Kota Jambi,1571,Jambi
+Kota Sungai Penuh,1572,Jambi
+Kab. Ogan Komering Ulu,1601,Sumatera Selatan
+Kab. Ogan Komering Ilir,1602,Sumatera Selatan
+Kab. Muara Enim,1603,Sumatera Selatan
+Kab. Lahat,1604,Sumatera Selatan
+Kab. Musi Rawas,1605,Sumatera Selatan
+Kab. Musi Banyuasin,1606,Sumatera Selatan
+Kab. Banyuasin,1607,Sumatera Selatan
+Kab. Ogan Komering Ulu Timur,1608,Sumatera Selatan
+Kab. Ogan Komering Ulu Selatan,1609,Sumatera Selatan
+Kab. Ogan Ilir,1610,Sumatera Selatan
+Kab. Empat Lawang,1611,Sumatera Selatan
+Kab. Penukal Abab Lematang Ilir,1612,Sumatera Selatan
+Kab. Musi Rawas Utara,1613,Sumatera Selatan
+Kota Palembang,1671,Sumatera Selatan
+Kota Pagar Alam,1672,Sumatera Selatan
+Kota Lubuk Linggau,1673,Sumatera Selatan
+Kota Prabumulih,1674,Sumatera Selatan
+Kab. Bengkulu Selatan,1701,Bengkulu
+Kab. Rejang Lebong,1702,Bengkulu
+Kab. Bengkulu Utara,1703,Bengkulu
+Kab. Kaur,1704,Bengkulu
+Kab. Seluma,1705,Bengkulu
+Kab. Muko Muko,1706,Bengkulu
+Kab. Lebong,1707,Bengkulu
+Kab. Kepahiang,1708,Bengkulu
+Kab. Bengkulu Tengah,1709,Bengkulu
+Kota Bengkulu,1771,Bengkulu
+Kab. Lampung Selatan,1801,Lampung
+Kab. Lampung Tengah,1802,Lampung
+Kab. Lampung Utara,1803,Lampung
+Kab. Lampung Barat,1804,Lampung
+Kab. Tulang Bawang,1805,Lampung
+Kab. Tanggamus,1806,Lampung
+Kab. Lampung Timur,1807,Lampung
+Kab. Way Kanan,1808,Lampung
+Kab. Pesawaran,1809,Lampung
+Kab. Pringsewu,1810,Lampung
+Kab. Mesuji,1811,Lampung
+Kab. Tulang Bawang Barat,1812,Lampung
+Kab. Pesisir Barat,1813,Lampung
+Kota Bandar Lampung,1871,Lampung
+Kota Metro,1872,Lampung
+Kab. Bangka,1901,Kepulauan Bangka Belitung
+Kab. Belitung,1902,Kepulauan Bangka Belitung
+Kab. Bangka Selatan,1903,Kepulauan Bangka Belitung
+Kab. Bangka Tengah,1904,Kepulauan Bangka Belitung
+Kab. Bangka Barat,1905,Kepulauan Bangka Belitung
+Kab. Belitung Timur,1906,Kepulauan Bangka Belitung
+Kota Pangkal Pinang,1971,Kepulauan Bangka Belitung
+Kab. Bintan,2101,Kepulauan Riau
+Kab. Karimun,2102,Kepulauan Riau
+Kab. Natuna,2103,Kepulauan Riau
+Kab. Lingga,2104,Kepulauan Riau
+Kab. Kepulauan Anambas,2105,Kepulauan Riau
+Kota Batam,2171,Kepulauan Riau
+Kota Tanjung Pinang,2172,Kepulauan Riau
+Kab. Adm. Kep. Seribu,3101,DKI Jakarta
+Kota Adm. Jakarta Pusat,3171,DKI Jakarta
+Kota Adm. Jakarta Utara,3172,DKI Jakarta
+Kota Adm. Jakarta Barat,3173,DKI Jakarta
+Kota Adm. Jakarta Selatan,3174,DKI Jakarta
+Kota Adm. Jakarta Timur,3175,DKI Jakarta
+Kab. Bogor,3201,Jawa Barat
+Kab. Sukabumi,3202,Jawa Barat
+Kab. Cianjur,3203,Jawa Barat
+Kab. Bandung,3204,Jawa Barat
+Kab. Garut,3205,Jawa Barat
+Kab. Tasikmalaya,3206,Jawa Barat
+Kab. Ciamis,3207,Jawa Barat
+Kab. Kuningan,3208,Jawa Barat
+Kab. Cirebon,3209,Jawa Barat
+Kab. Majalengka,3210,Jawa Barat
+Kab. Sumedang,3211,Jawa Barat
+Kab. Indramayu,3212,Jawa Barat
+Kab. Subang,3213,Jawa Barat
+Kab. Purwakarta,3214,Jawa Barat
+Kab. Karawang,3215,Jawa Barat
+Kab. Bekasi,3216,Jawa Barat
+Kab. Bandung Barat,3217,Jawa Barat
+Kab. Pangandaran,3218,Jawa Barat
+Kota Bogor,3271,Jawa Barat
+Kota Sukabumi,3272,Jawa Barat
+Kota Bandung,3273,Jawa Barat
+Kota Cirebon,3274,Jawa Barat
+Kota Bekasi,3275,Jawa Barat
+Kota Depok,3276,Jawa Barat
+Kota Cimahi,3277,Jawa Barat
+Kota Tasikmalaya,3278,Jawa Barat
+Kota Banjar,3279,Jawa Barat
+Kab. Cilacap,3301,Jawa Tengah
+Kab. Banyumas,3302,Jawa Tengah
+Kab. Purbalingga,3303,Jawa Tengah
+Kab. Banjarnegara,3304,Jawa Tengah
+Kab. Kebumen,3305,Jawa Tengah
+Kab. Purworejo,3306,Jawa Tengah
+Kab. Wonosobo,3307,Jawa Tengah
+Kab. Magelang,3308,Jawa Tengah
+Kab. Boyolali,3309,Jawa Tengah
+Kab. Klaten,3310,Jawa Tengah
+Kab. Sukoharjo,3311,Jawa Tengah
+Kab. Wonogiri,3312,Jawa Tengah
+Kab. Karanganyar,3313,Jawa Tengah
+Kab. Sragen,3314,Jawa Tengah
+Kab. Grobogan,3315,Jawa Tengah
+Kab. Blora,3316,Jawa Tengah
+Kab. Rembang,3317,Jawa Tengah
+Kab. Pati,3318,Jawa Tengah
+Kab. Kudus,3319,Jawa Tengah
+Kab. Jepara,3320,Jawa Tengah
+Kab. Demak,3321,Jawa Tengah
+Kab. Semarang,3322,Jawa Tengah
+Kab. Temanggung,3323,Jawa Tengah
+Kab. Kendal,3324,Jawa Tengah
+Kab. Batang,3325,Jawa Tengah
+Kab. Pekalongan,3326,Jawa Tengah
+Kab. Pemalang,3327,Jawa Tengah
+Kab. Tegal,3328,Jawa Tengah
+Kab. Brebes,3329,Jawa Tengah
+Kota Magelang,3371,Jawa Tengah
+Kota Surakarta,3372,Jawa Tengah
+Kota Salatiga,3373,Jawa Tengah
+Kota Semarang,3374,Jawa Tengah
+Kota Pekalongan,3375,Jawa Tengah
+Kota Tegal,3376,Jawa Tengah
+Kab. Kulon Progo,3401,Daerah Istimewa Yogyakarta
+Kab. Bantul,3402,Daerah Istimewa Yogyakarta
+Kab. Gunungkidul,3403,Daerah Istimewa Yogyakarta
+Kab. Sleman,3404,Daerah Istimewa Yogyakarta
+Kota Yogyakarta,3471,Daerah Istimewa Yogyakarta
+Kab. Pacitan,3501,Jawa Timur
+Kab. Ponorogo,3502,Jawa Timur
+Kab. Trenggalek,3503,Jawa Timur
+Kab. Tulungagung,3504,Jawa Timur
+Kab. Blitar,3505,Jawa Timur
+Kab. Kediri,3506,Jawa Timur
+Kab. Malang,3507,Jawa Timur
+Kab. Lumajang,3508,Jawa Timur
+Kab. Jember,3509,Jawa Timur
+Kab. Banyuwangi,3510,Jawa Timur
+Kab. Bondowoso,3511,Jawa Timur
+Kab. Situbondo,3512,Jawa Timur
+Kab. Probolinggo,3513,Jawa Timur
+Kab. Pasuruan,3514,Jawa Timur
+Kab. Sidoarjo,3515,Jawa Timur
+Kab. Mojokerto,3516,Jawa Timur
+Kab. Jombang,3517,Jawa Timur
+Kab. Nganjuk,3518,Jawa Timur
+Kab. Madiun,3519,Jawa Timur
+Kab. Magetan,3520,Jawa Timur
+Kab. Ngawi,3521,Jawa Timur
+Kab. Bojonegoro,3522,Jawa Timur
+Kab. Tuban,3523,Jawa Timur
+Kab. Lamongan,3524,Jawa Timur
+Kab. Gresik,3525,Jawa Timur
+Kab. Bangkalan,3526,Jawa Timur
+Kab. Sampang,3527,Jawa Timur
+Kab. Pamekasan,3528,Jawa Timur
+Kab. Sumenep,3529,Jawa Timur
+Kota Kediri,3571,Jawa Timur
+Kota Blitar,3572,Jawa Timur
+Kota Malang,3573,Jawa Timur
+Kota Probolinggo,3574,Jawa Timur
+Kota Pasuruan,3575,Jawa Timur
+Kota Mojokerto,3576,Jawa Timur
+Kota Madiun,3577,Jawa Timur
+Kota Surabaya,3578,Jawa Timur
+Kota Batu,3579,Jawa Timur
+Kab. Pandeglang,3601,Banten
+Kab. Lebak,3602,Banten
+Kab. Tangerang,3603,Banten
+Kab. Serang,3604,Banten
+Kota Tangerang,3671,Banten
+Kota Cilegon,3672,Banten
+Kota Serang,3673,Banten
+Kota Tangerang Selatan,3674,Banten
+Kab. Jembrana,5101,Bali
+Kab. Tabanan,5102,Bali
+Kab. Badung,5103,Bali
+Kab. Gianyar,5104,Bali
+Kab. Klungkung,5105,Bali
+Kab. Bangli,5106,Bali
+Kab. Karangasem,5107,Bali
+Kab. Buleleng,5108,Bali
+Kota Denpasar,5171,Bali
+Kab. Lombok Barat,5201,Nusa Tenggara Barat
+Kab. Lombok Tengah,5202,Nusa Tenggara Barat
+Kab. Lombok Timur,5203,Nusa Tenggara Barat
+Kab. Sumbawa,5204,Nusa Tenggara Barat
+Kab. Dompu,5205,Nusa Tenggara Barat
+Kab. Bima,5206,Nusa Tenggara Barat
+Kab. Sumbawa Barat,5207,Nusa Tenggara Barat
+Kab. Lombok Utara,5208,Nusa Tenggara Barat
+Kota Mataram,5271,Nusa Tenggara Barat
+Kota Bima,5272,Nusa Tenggara Barat
+Kab. Kupang,5301,Nusa Tenggara Timur
+Kab Timor Tengah Selatan,5302,Nusa Tenggara Timur
+Kab. Timor Tengah Utara,5303,Nusa Tenggara Timur
+Kab. Belu,5304,Nusa Tenggara Timur
+Kab. Alor,5305,Nusa Tenggara Timur
+Kab. Flores Timur,5306,Nusa Tenggara Timur
+Kab. Sikka,5307,Nusa Tenggara Timur
+Kab. Ende,5308,Nusa Tenggara Timur
+Kab. Ngada,5309,Nusa Tenggara Timur
+Kab. Manggarai,5310,Nusa Tenggara Timur
+Kab. Sumba Timur,5311,Nusa Tenggara Timur
+Kab. Sumba Barat,5312,Nusa Tenggara Timur
+Kab. Lembata,5313,Nusa Tenggara Timur
+Kab. Rote Ndao,5314,Nusa Tenggara Timur
+Kab. Manggarai Barat,5315,Nusa Tenggara Timur
+Kab. Nagekeo,5316,Nusa Tenggara Timur
+Kab. Sumba Tengah,5317,Nusa Tenggara Timur
+Kab. Sumba Barat Daya,5318,Nusa Tenggara Timur
+Kab. Manggarai Timur,5319,Nusa Tenggara Timur
+Kab. Sabu Raijua,5320,Nusa Tenggara Timur
+Kab. Malaka,5321,Nusa Tenggara Timur
+Kota Kupang,5371,Nusa Tenggara Timur
+Kab. Sambas,6101,Kalimantan Barat
+Kab. Mempawah,6102,Kalimantan Barat
+Kab. Sanggau,6103,Kalimantan Barat
+Kab. Ketapang,6104,Kalimantan Barat
+Kab. Sintang,6105,Kalimantan Barat
+Kab. Kapuas Hulu,6106,Kalimantan Barat
+Kab. Bengkayang,6107,Kalimantan Barat
+Kab. Landak,6108,Kalimantan Barat
+Kab. Sekadau,6109,Kalimantan Barat
+Kab. Melawi,6110,Kalimantan Barat
+Kab. Kayong Utara,6111,Kalimantan Barat
+Kab. Kubu Raya,6112,Kalimantan Barat
+Kota Pontianak,6171,Kalimantan Barat
+Kota Singkawang,6172,Kalimantan Barat
+Kab. Kotawaringin Barat,6201,Kalimantan Tengah
+Kab. Kotawaringin Timur,6202,Kalimantan Tengah
+Kab. Kapuas,6203,Kalimantan Tengah
+Kab. Barito Selatan,6204,Kalimantan Tengah
+Kab. Barito Utara,6205,Kalimantan Tengah
+Kab. Katingan,6206,Kalimantan Tengah
+Kab. Seruyan,6207,Kalimantan Tengah
+Kab. Sukamara,6208,Kalimantan Tengah
+Kab. Lamandau,6209,Kalimantan Tengah
+Kab. Gunung Mas,6210,Kalimantan Tengah
+Kab. Pulang Pisau,6211,Kalimantan Tengah
+Kab. Murung Raya,6212,Kalimantan Tengah
+Kab. Barito Timur,6213,Kalimantan Tengah
+Kota Palangkaraya,6271,Kalimantan Tengah
+Kab. Tanah Laut,6301,Kalimantan Selatan
+Kab. Kotabaru,6302,Kalimantan Selatan
+Kab. Banjar,6303,Kalimantan Selatan
+Kab. Barito Kuala,6304,Kalimantan Selatan
+Kab. Tapin,6305,Kalimantan Selatan
+Kab. Hulu Sungai Selatan,6306,Kalimantan Selatan
+Kab. Hulu Sungai Tengah,6307,Kalimantan Selatan
+Kab. Hulu Sungai Utara,6308,Kalimantan Selatan
+Kab. Tabalong,6309,Kalimantan Selatan
+Kab. Tanah Bumbu,6310,Kalimantan Selatan
+Kab. Balangan,6311,Kalimantan Selatan
+Kota Banjarmasin,6371,Kalimantan Selatan
+Kota Banjarbaru,6372,Kalimantan Selatan
+Kab. Paser,6401,Kalimantan Timur
+Kab. Kutai Kartanegara,6402,Kalimantan Timur
+Kab. Berau,6403,Kalimantan Timur
+Kab. Kutai Barat,6407,Kalimantan Timur
+Kab. Kutai Timur,6408,Kalimantan Timur
+Kab. Penajam Paser Utara,6409,Kalimantan Timur
+Kab. Mahakam Ulu,6411,Kalimantan Timur
+Kota Balikpapan,6471,Kalimantan Timur
+Kota Samarinda,6472,Kalimantan Timur
+Kota Bontang,6474,Kalimantan Timur
+Kab. Bulungan,6501,Kalimantan Utara
+Kab. Malinau,6502,Kalimantan Utara
+Kab. Nunukan,6503,Kalimantan Utara
+Kab. Tana Tidung,6504,Kalimantan Utara
+Kota Tarakan,6571,Kalimantan Utara
+Kab. Bolaang Mongondow,7101,Sulawesi Utara
+Kab. Minahasa,7102,Sulawesi Utara
+Kab. Kepulauan Sangihe,7103,Sulawesi Utara
+Kab. Kepulauan Talaud,7104,Sulawesi Utara
+Kab. Minahasa Selatan,7105,Sulawesi Utara
+Kab. Minahasa Utara,7106,Sulawesi Utara
+Kab. Minahasa Tenggara,7107,Sulawesi Utara
+Kab. Bolaang Mongondow Utara,7108,Sulawesi Utara
+Kab. Kep. Siau Tagulandang Biaro,7109,Sulawesi Utara
+Kab. Bolaang Mongondow Timur,7110,Sulawesi Utara
+Kab. Bolaang Mongondow Selatan,7111,Sulawesi Utara
+Kota Manado,7171,Sulawesi Utara
+Kota Bitung,7172,Sulawesi Utara
+Kota Tomohon,7173,Sulawesi Utara
+Kota Kotamobagu,7174,Sulawesi Utara
+Kab. Banggai,7201,Sulawesi Tengah
+Kab. Poso,7202,Sulawesi Tengah
+Kab. Donggala,7203,Sulawesi Tengah
+Kab. Toli Toli,7204,Sulawesi Tengah
+Kab. Buol,7205,Sulawesi Tengah
+Kab. Morowali,7206,Sulawesi Tengah
+Kab. Banggai Kepulauan,7207,Sulawesi Tengah
+Kab. Parigi Moutong,7208,Sulawesi Tengah
+Kab. Tojo Una Una,7209,Sulawesi Tengah
+Kab. Sigi,7210,Sulawesi Tengah
+Kab. Banggai Laut,7211,Sulawesi Tengah
+Kab. Morowali Utara,7212,Sulawesi Tengah
+Kota Palu,7271,Sulawesi Tengah
+Kab. Kepulauan Selayar,7301,Sulawesi Selatan
+Kab. Bulukumba,7302,Sulawesi Selatan
+Kab. Bantaeng,7303,Sulawesi Selatan
+Kab. Jeneponto,7304,Sulawesi Selatan
+Kab. Takalar,7305,Sulawesi Selatan
+Kab. Gowa,7306,Sulawesi Selatan
+Kab. Sinjai,7307,Sulawesi Selatan
+Kab. Bone,7308,Sulawesi Selatan
+Kab. Maros,7309,Sulawesi Selatan
+Kab. Pangkajene Kepulauan,7310,Sulawesi Selatan
+Kab. Barru,7311,Sulawesi Selatan
+Kab. Soppeng,7312,Sulawesi Selatan
+Kab. Wajo,7313,Sulawesi Selatan
+Kab. Sidenreng Rappang,7314,Sulawesi Selatan
+Kab. Pinrang,7315,Sulawesi Selatan
+Kab. Enrekang,7316,Sulawesi Selatan
+Kab. Luwu,7317,Sulawesi Selatan
+Kab. Tana Toraja,7318,Sulawesi Selatan
+Kab. Luwu Utara,7322,Sulawesi Selatan
+Kab. Luwu Timur,7324,Sulawesi Selatan
+Kab. Toraja Utara,7326,Sulawesi Selatan
+Kota Makassar,7371,Sulawesi Selatan
+Kota Pare Pare,7372,Sulawesi Selatan
+Kota Palopo,7373,Sulawesi Selatan
+Kab. Kolaka,7401,Sulawesi Tenggara
+Kab. Konawe,7402,Sulawesi Tenggara
+Kab. Muna,7403,Sulawesi Tenggara
+Kab. Buton,7404,Sulawesi Tenggara
+Kab. Konawe Selatan,7405,Sulawesi Tenggara
+Kab. Bombana,7406,Sulawesi Tenggara
+Kab. Wakatobi,7407,Sulawesi Tenggara
+Kab. Kolaka Utara,7408,Sulawesi Tenggara
+Kab. Konawe Utara,7409,Sulawesi Tenggara
+Kab. Buton Utara,7410,Sulawesi Tenggara
+Kab. Kolaka Timur,7411,Sulawesi Tenggara
+Kab. Konawe Kepulauan,7412,Sulawesi Tenggara
+Kab. Muna Barat,7413,Sulawesi Tenggara
+Kab. Buton Tengah,7414,Sulawesi Tenggara
+Kab. Buton Selatan,7415,Sulawesi Tenggara
+Kota Kendari,7471,Sulawesi Tenggara
+Kota Bau Bau,7472,Sulawesi Tenggara
+Kab. Gorontalo,7501,Gorontalo
+Kab. Boalemo,7502,Gorontalo
+Kab. Bone Bolango,7503,Gorontalo
+Kab. Pohuwato,7504,Gorontalo
+Kab. Gorontalo Utara,7505,Gorontalo
+Kota Gorontalo,7571,Gorontalo
+Kab. Pasangkayu,7601,Sulawesi Barat
+Kab. Mamuju,7602,Sulawesi Barat
+Kab. Mamasa,7603,Sulawesi Barat
+Kab. Polewali Mandar,7604,Sulawesi Barat
+Kab. Majene,7605,Sulawesi Barat
+Kab. Mamuju Tengah,7606,Sulawesi Barat
+Kab. Maluku Tengah,8101,Maluku
+Kab. Maluku Tenggara,8102,Maluku
+Kab. Kepulauan Tanimbar,8103,Maluku
+Kab. Buru,8104,Maluku
+Kab. Seram Bagian Timur,8105,Maluku
+Kab. Seram Bagian Barat,8106,Maluku
+Kab. Kepulauan Aru,8107,Maluku
+Kab. Maluku Barat Daya,8108,Maluku
+Kab. Buru Selatan,8109,Maluku
+Kota Ambon,8171,Maluku
+Kota Tual,8172,Maluku
+Kab. Halmahera Barat,8201,Maluku Utara
+Kab. Halmahera Tengah,8202,Maluku Utara
+Kab. Halmahera Utara,8203,Maluku Utara
+Kab. Halmahera Selatan,8204,Maluku Utara
+Kab. Kepulauan Sula,8205,Maluku Utara
+Kab. Halmahera Timur,8206,Maluku Utara
+Kab. Pulau Morotai,8207,Maluku Utara
+Kab. Pulau Taliabu,8208,Maluku Utara
+Kota Ternate,8271,Maluku Utara
+Kota Tidore Kepulauan,8272,Maluku Utara
+Kab. Jayapura,9103,Papua
+Kab. Kepulauan Yapen,9105,Papua
+Kab. Biak Numfor,9106,Papua
+Kab. Sarmi,9110,Papua
+Kab. Keerom,9111,Papua
+Kab. Waropen,9115,Papua
+Kab. Supiori,9119,Papua
+Kab. Mamberamo Raya,9120,Papua
+Kota Jayapura,9171,Papua
+Kab. Sorong,9201,Papua Barat
+Kab. Manokwari,9202,Papua Barat
+Kab. Fak Fak,9203,Papua Barat
+Kab. Sorong Selatan,9204,Papua Barat
+Kab. Raja Ampat,9205,Papua Barat
+Kab. Teluk Bintuni,9206,Papua Barat
+Kab. Teluk Wondama,9207,Papua Barat
+Kab. Kaimana,9208,Papua Barat
+Kab. Tambrauw,9209,Papua Barat
+Kab. Maybrat,9210,Papua Barat
+Kab. Manokwari Selatan,9211,Papua Barat
+Kab. Pegunungan Arfak,9212,Papua Barat
+Kota Sorong,9271,Papua Barat
+Kab. Merauke,9301,Papua Selatan
+Kab. Boven Digoel,9302,Papua Selatan
+Kab. Mappi,9303,Papua Selatan
+Kab. Asmat,9304,Papua Selatan
+Kab. Nabire,9401,Papua Tengah
+Kab. Puncak Jaya,9402,Papua Tengah
+Kab. Paniai,9403,Papua Tengah
+Kab. Mimika,9404,Papua Tengah
+Kab. Puncak,9405,Papua Tengah
+Kab. Dogiyai,9406,Papua Tengah
+Kab. Intan Jaya,9407,Papua Tengah
+Kab. Deiyai,9408,Papua Tengah
+Kab. Jayawijaya,9501,Papua Pegunungan
+Kab. Pegunungan Bintang,9502,Papua Pegunungan
+Kab. Yahukimo,9503,Papua Pegunungan
+Kab. Tolikara,9504,Papua Pegunungan
+Kab. Mamberamo Tengah,9505,Papua Pegunungan
+Kab. Yalimo,9506,Papua Pegunungan
+Kab. Lanny Jaya,9507,Papua Pegunungan
+Kab. Nduga,9508,Papua Pegunungan

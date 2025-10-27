@@ -1,0 +1,4 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+access_idn_provinsi,idn.provinsi,model_idn_provinsi,,1,0,0,0
+access_idn_kabupaten_kota,idn.kabupaten_kota,model_idn_kabupaten_kota,,1,0,0,0
+access_idn_kecamatan,idn.kecamatan,model_idn_kecamatan,,1,0,0,0
