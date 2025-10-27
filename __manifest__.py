@@ -20,7 +20,7 @@
 
     # always loaded
     'data': [
-        # 'security/ir.model.access.csv',
+        'security/ir.model.access.csv',
         'data/idn.provinsi.csv',
         'data/idn.kabupaten_kota.csv',
         'data/idn.kecamatan.csv',
