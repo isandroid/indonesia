@@ -1,19 +1,47 @@
 <odoo>
   <data>
     <!-- explicit list view definition -->
-<!--
-    <record model="ir.ui.view" id="idn.list">
-      <field name="name">idn list</field>
-      <field name="model">idn.idn</field>
+
+    <record model="ir.ui.view" id="idn_provinsi_list">
+      <field name="name">provinsi list</field>
+      <field name="model">idn.provinsi</field>
       <field name="arch" type="xml">
         <tree>
           <field name="name"/>
-          <field name="value"/>
-          <field name="value2"/>
+          <field name="id_provinsi" optional="hide"/>
         </tree>
       </field>
     </record>
--->
+
+    <!-- explicit form view definition -->
+
+    <record model="ir.ui.view" id="idn_provinsi_form">
+      <field name="name">provinsi form</field>
+      <field name="model">idn.provinsi</field>
+      <field name="arch" type="xml">
+        <form>
+            <sheet>
+                <group>
+                  <field name="name"/>
+                  <field name="id_provinsi"/>
+                </group>
+            </sheet>
+        </form>
+      </field>
+    </record>
+
+    <!-- explicit search view definition -->
+
+    <record model="ir.ui.view" id="idn_provinsi_search">
+      <field name="name">provinsi search</field>
+      <field name="model">idn.provinsi</field>
+      <field name="arch" type="xml">
+        <search>
+          <field name="name"/>
+          <field name="id_provinsi"/>
+        </search>
+      </field>
+    </record>
 
     <!-- actions opening views on models -->
 

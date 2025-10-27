@@ -6,6 +6,7 @@ from odoo import models, fields, api
 class IdnKecamatan(models.Model):
     _name = 'idn.kecamatan'
     _description = 'Data Kecamatan'
+    _order = 'name asc'
 
     name = fields.Char(string="kecamatan")
     id_kecamatan = fields.Integer(string="id kecamatan")
